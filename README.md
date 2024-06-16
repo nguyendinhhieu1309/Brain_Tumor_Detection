@@ -7,6 +7,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-%23FF6F00.svg?style=plastic&logo=Tkinter&logoColor=white)
 ![OS](https://img.shields.io/badge/os-%23F7931E.svg?style=plastic&logo=linux&logoColor=white)
+
 This project aims to detect brain tumors from MRI images using deep learning models. The application uses a Tkinter-based GUI to allow users to upload MRI images and get real-time tumor detection results.
 
 ## Features
