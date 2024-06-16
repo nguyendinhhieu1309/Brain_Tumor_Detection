@@ -31,7 +31,7 @@ The dataset contains 5712 MRI images of brain tumors categorized into four class
 
 3. Ensure the dataset is placed in the correct directory structure:
     ```
-    brain_tumor
+    BrainTumorDetection
     ├── Training
     │   ├── notumor
     │   ├── pituitary
@@ -47,3 +47,8 @@ The dataset contains 5712 MRI images of brain tumors categorized into four class
     ```
 
 2. Use the Tkinter interface to upload an MRI image and get the prediction result.
+## Example
+1. Use image test from computer
+![image](https://github.com/nguyendinhhieu1309/Brain_Tumor_Detection/assets/163109800/622ea14a-53bd-4e48-bb5d-32d44d6f3315)
+2. Use image from internet(google)
+![image](https://github.com/nguyendinhhieu1309/Brain_Tumor_Detection/assets/163109800/87d4d949-fdd5-458b-88e6-5c8bb594b577)
