@@ -12,7 +12,7 @@ This project aims to detect brain tumors from MRI images using deep learning mod
 
 ## Features
 
-- Preprocess and resize MRI images for consistent input to the machine learning model.
+- Preprocess and resize MRI images for consistent input to the deep learning model.
 - Train Support Vector Machine (SVM) and Logistic Regression classifiers for brain tumor detection.
 - Provide a user-friendly interface using Tkinter for easy image upload and prediction display.
 
